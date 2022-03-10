@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvn-patel" alt="dhruvn-patel" /></a> </p>
 
 - 🌱 I’m currently learning **Reactjs,Nodejs,mongodb**
-- 🌱 I’m currently learning **Data structure and Algorithms **
+- 🌱 I’m currently learning **Data structure and Algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
