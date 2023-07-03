@@ -20,7 +20,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/dhruv-patel-83309a1b6/?_l=en_US"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dhruv%20Patel-blue?style=flat-square&logo=linkedin"></a>
-<!-- <a href="https://www.instagram.com/piyush.vo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-piyush.vo-blue?style=flat-square&logo=instagram"></a> -->
+<a href="https://www.linkedin.com/in/dhruv-patel-83309a1b6/?_l=en_US"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dhruv%20Patel-blue?style=flat-square&logo=linkedin"></a> <a href="https://hashnode.com/@dhruv796"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style==flat-square&logo=hashnode"></a>
 <a href="mailto:dhruvpateldhruvpatel01669@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dhruvpateldhruvpatel01669@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
