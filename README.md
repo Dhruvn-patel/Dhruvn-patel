@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dhruvpateldhruvpatel01669@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/109dnPEEDyByvKLhAY2RoyM_APpSN5E4A/view](https://drive.google.com/file/d/109dnPEEDyByvKLhAY2RoyM_APpSN5E4A/view)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
