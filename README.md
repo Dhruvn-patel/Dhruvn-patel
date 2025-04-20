@@ -5,11 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvn-patel" alt="dhruvn-patel" /></a> </p>
 
-- 🔭 I’m currently working on **on MERN Stack**
-
-- 👯 I’m looking to collaborate on **open source projects**
-
-- 📫 How to reach me **dhruvpateldhruvpatel01669@gmail.com**
 
 
 
